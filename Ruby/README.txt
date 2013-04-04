@@ -1,8 +1,10 @@
+This Ruby exercise is a part of an online SaaS course conducted by UC Berkeley as a part of BerkeleyX on EdX.org.
+------------------------------------------------------------------------------------------------------
 Part 1 : FUN WITH STRINGS
 
 In this problem, you are asked to implement two functions that perform basic string processing. You can get the template file for this problem here (the file for this problem is "part1.rb"). Please read the instructions carefully and submit your code via the "Browse" button at the bottom of the page.
 
-Part A — Palindromes: Write a method palindrome?(string) that determines whether a given string (word or phrase) is a palindrome, that is, it reads the same backwards as forwards, ignoring case, punctuation, and nonword characters. (A "nonword character" is defined for our purposes as "a character that Ruby regexps would treat as a nonword character".)
+Part A ï¿½ Palindromes: Write a method palindrome?(string) that determines whether a given string (word or phrase) is a palindrome, that is, it reads the same backwards as forwards, ignoring case, punctuation, and nonword characters. (A "nonword character" is defined for our purposes as "a character that Ruby regexps would treat as a nonword character".)
 
 The structure of your code should look as follows:
 
@@ -17,7 +19,7 @@ palindrome?("A man, a plan, a canal -- Panama")  # => true
 palindrome?("Madam, I'm Adam!")                  # => true
 palindrome?("Abracadabra")                       # => false (nil is also ok)
 
-Part B — Word Count: Define a function count_words(string) that, given an input string, return a hash whose keys are words in the string and whose values are the number of times each word appears. Your code should look like:
+Part B ï¿½ Word Count: Define a function count_words(string) that, given an input string, return a hash whose keys are words in the string and whose values are the number of times each word appears. Your code should look like:
 
 def count_words(string)
     # your code here
@@ -205,7 +207,7 @@ f.bar_history # => if your code works, should be [nil, 1, 2]
 ------------------------------------------------------------------------------------------------------
 Part 6 : ADVANCED OOP, METAPROGRAMMING, OPEN CLASSES AND DUCK TYPING
 
-Part A — Currency conversion (ELLS 3.11): Extend the currency-conversion example from lecture so that code such as the following will work:
+Part A ï¿½ Currency conversion (ELLS 3.11): Extend the currency-conversion example from lecture so that code such as the following will work:
 
 5.dollars.in(:euros)
 10.euros.in(:rupees)
@@ -230,23 +232,23 @@ class Numeric
  end
 end
 
-Part B — Palindromes: Adapt your solution from the "palindromes" question so that instead of writing palindrome?("foo") you can write "foo".palindrome? (Hint: this should require fewer than 5 lines of code.)
+Part B ï¿½ Palindromes: Adapt your solution from the "palindromes" question so that instead of writing palindrome?("foo") you can write "foo".palindrome? (Hint: this should require fewer than 5 lines of code.)
 
-Part C — Palindromes again: Adapt your palindrome solution so that it works on Enumerables. That is:
+Part C ï¿½ Palindromes again: Adapt your palindrome solution so that it works on Enumerables. That is:
 [1,2,3,2,1].palindrome? # => true
 
 It's not necessary for the collection's elements to be palindromes themselves--only that the top-level collection be a palindrome. (Hint: this should require fewer than 5 lines of code.) Although hashes are considered Enumerables, your solution does not need to work with hashes, though it should not error.
 ------------------------------------------------------------------------------------------------------
 Part 6 : ITERATORS, BLOCKS, YIELD
 
-Given two collections (of possibly different lengths), we want to get the Cartesian product of the sequences. A Cartesian product is a sequence that enumerates every possible pair from the two collections, where the pair consists of one element from each collection. For example, the Cartesian product (denoted by ×) of the sequences a = [:a, :b, :c] and b = [4, 5] is:
+Given two collections (of possibly different lengths), we want to get the Cartesian product of the sequences. A Cartesian product is a sequence that enumerates every possible pair from the two collections, where the pair consists of one element from each collection. For example, the Cartesian product (denoted by ï¿½) of the sequences a = [:a, :b, :c] and b = [4, 5] is:
 
-a × b = [ [:a,4], [:a,5], [:b,4], [:b,5], [:c,4], [:c,5] ]
+a ï¿½ b = [ [:a,4], [:a,5], [:b,4], [:b,5], [:c,4], [:c,5] ]
 Create a constructor for the class CartesianProduct that that takes two sequences as arguments, these values will define the behavior of your object. Define each as an instance method for CartesianProduct. Your method should return an iterator which yields the cartesian product of the two sequences used in the class' constructor. The iterator should yield the values one at a time as 2 element arrays.
 
 It doesn't matter what order the elements are returned in. So for the above example, the ordering [ [:a,4], [:b,4], [:c,4], [:a,5], [:b,5], [:c,5] ] would be correct as well.
 
-It does matter that within each pair, the order of the elements matches the order in which the original sequences were provided. That is, [:a,4] is a member of the Cartesian product a × b but [4,:a] is not. (Instead, [4,:a] is a member of the Cartesian product b × a.)
+It does matter that within each pair, the order of the elements matches the order in which the original sequences were provided. That is, [:a,4] is a member of the Cartesian product a ï¿½ b but [4,:a] is not. (Instead, [4,:a] is a member of the Cartesian product b ï¿½ a.)
 
 Below is the code skeleton:
 
