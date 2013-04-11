@@ -1,3 +1,4 @@
+﻿By Viraj H.
 This Ruby exercise is a part of an online SaaS course conducted by UC Berkeley as a part of BerkeleyX on EdX.org.
 ------------------------------------------------------------------------------------------------------
 Part 1 : FUN WITH STRINGS
