@@ -1,0 +1,522 @@
+By Viraj H.
+April 2013, SJSU.
+------------------------------------------------------------------------
+Log file generated at WED APR 24 15:08:16 PDT 2013
+130.65.157.0	Unassigned IP.
+130.65.157.1	Non VMware device.
+130.65.157.2	Unassigned IP.
+130.65.157.3	Unassigned IP.
+130.65.157.4	Unassigned IP.
+130.65.157.5	Unassigned IP.
+130.65.157.6	vCenter Server.
+130.65.157.7	Unassigned IP.
+130.65.157.8	vCenter Server.
+130.65.157.9	vCenter Server.
+130.65.157.10	vCenter Server.
+130.65.157.11	vCenter Server.
+130.65.157.12	vCenter Server.
+130.65.157.13	vCenter Server.
+130.65.157.14	Unassigned IP.
+130.65.157.15	vCenter Server.
+130.65.157.16	vCenter Server.
+130.65.157.17	vCenter Server.
+130.65.157.18	vCenter Server.
+130.65.157.19	Unassigned IP.
+130.65.157.20	Non VMware device.
+130.65.157.21	x130-65-157-217.engr.sjsu.edu
+130.65.157.22	x130-65-157-125.engr.sjsu.edu
+130.65.157.23	Unassigned IP.
+130.65.157.24	Unassigned IP.
+130.65.157.25	Unassigned IP.
+130.65.157.26	Unassigned IP.
+130.65.157.27	Unassigned IP.
+130.65.157.28	Unassigned IP.
+130.65.157.29	Unassigned IP.
+130.65.157.30	Unassigned IP.
+130.65.157.31	Unassigned IP.
+130.65.157.32	Unassigned IP.
+130.65.157.33	Unassigned IP.
+130.65.157.34	Unassigned IP.
+130.65.157.35	cslab51.engr.sjsu.edu
+130.65.157.36	cslab74.engr.sjsu.edu
+130.65.157.37	Unassigned IP.
+130.65.157.38	Unassigned IP.
+130.65.157.39	Unassigned IP.
+130.65.157.40	Unassigned IP.
+130.65.157.41	Unassigned IP.
+130.65.157.42	Unassigned IP.
+130.65.157.43	Unassigned IP.
+130.65.157.44	Unassigned IP.
+130.65.157.45	Unassigned IP.
+130.65.157.46	Unassigned IP.
+130.65.157.47	Unassigned IP.
+130.65.157.48	Unassigned IP.
+130.65.157.49	cslab65.engr.sjsu.edu
+130.65.157.50	cslab44.engr.sjsu.edu
+130.65.157.51	Non VMware device.
+130.65.157.52	Unassigned IP.
+130.65.157.53	Unassigned IP.
+130.65.157.54	Unassigned IP.
+130.65.157.55	Unassigned IP.
+130.65.157.56	Unassigned IP.
+130.65.157.57	Unassigned IP.
+130.65.157.58	Unassigned IP.
+130.65.157.59	Unassigned IP.
+130.65.157.60	Unassigned IP.
+130.65.157.61	Unassigned IP.
+130.65.157.62	Unassigned IP.
+130.65.157.63	Unassigned IP.
+130.65.157.64	cslab40.engr.sjsu.edu
+130.65.157.65	dell2.engr.sjsu.edu
+130.65.157.66	x130-65-157-193.engr.sjsu.edu
+130.65.157.67	Non VMware device.
+130.65.157.68	Unassigned IP.
+130.65.157.69	Unassigned IP.
+130.65.157.70	Unassigned IP.
+130.65.157.71	cslab55.engr.sjsu.edu
+130.65.157.72	x130-65-157-150.engr.sjsu.edu
+130.65.157.73	Unassigned IP.
+130.65.157.74	Unassigned IP.
+130.65.157.75	Unassigned IP.
+130.65.157.76	Unassigned IP.
+130.65.157.77	cmpe-pool4-alt.engr.sjsu.edu
+130.65.157.78	Unassigned IP.
+130.65.157.79	cslab57.engr.sjsu.edu
+130.65.157.80	qalab-17.engr.sjsu.edu
+130.65.157.81	x130-65-157-207.engr.sjsu.edu
+130.65.157.82	x130-65-157-172.engr.sjsu.edu
+130.65.157.83	Unassigned IP.
+130.65.157.84	Unassigned IP.
+130.65.157.85	Unassigned IP.
+130.65.157.86	Unassigned IP.
+130.65.157.87	Unassigned IP.
+130.65.157.88	Unassigned IP.
+130.65.157.89	Unassigned IP.
+130.65.157.90	Unassigned IP.
+130.65.157.91	Non VMware device.
+130.65.157.92	cslab42.engr.sjsu.edu
+130.65.157.93	Unassigned IP.
+130.65.157.94	Unassigned IP.
+130.65.157.95	Non VMware device.
+130.65.157.96	Unassigned IP.
+130.65.157.97	Non VMware device.
+130.65.157.98	Unassigned IP.
+130.65.157.99	Non VMware device.
+130.65.157.100	Unassigned IP.
+130.65.157.101	Unassigned IP.
+130.65.157.102	Unassigned IP.
+130.65.157.103	Unassigned IP.
+130.65.157.104	cslab54.engr.sjsu.edu
+130.65.157.105	Unassigned IP.
+130.65.157.106	Unassigned IP.
+130.65.157.107	Unassigned IP.
+130.65.157.108	Unassigned IP.
+130.65.157.109	Unassigned IP.
+130.65.157.110	Unassigned IP.
+130.65.157.111	Unassigned IP.
+130.65.157.112	Unassigned IP.
+130.65.157.113	Unassigned IP.
+130.65.157.114	Non VMware device.
+130.65.157.115	Unassigned IP.
+130.65.157.116	Unassigned IP.
+130.65.157.117	Unassigned IP.
+130.65.157.118	Unassigned IP.
+130.65.157.119	Unassigned IP.
+130.65.157.120	Unassigned IP.
+130.65.157.121	Unassigned IP.
+130.65.157.122	Unassigned IP.
+130.65.157.123	Unassigned IP.
+130.65.157.124	Non VMware device.
+130.65.157.125	Unassigned IP.
+130.65.157.126	cirrus1.engr.sjsu.edu
+130.65.157.127	Non VMware device.
+130.65.157.128	Non VMware device.
+130.65.157.129	Unassigned IP.
+130.65.157.130	Non VMware device.
+130.65.157.131	Unassigned IP.
+130.65.157.132	Non VMware device.
+130.65.157.133	Unassigned IP.
+130.65.157.134	Unassigned IP.
+130.65.157.135	Non VMware device.
+130.65.157.136	cirrus2.engr.sjsu.edu
+130.65.157.137	Non VMware device.
+130.65.157.138	Unassigned IP.
+130.65.157.139	Unassigned IP.
+130.65.157.140	Unassigned IP.
+130.65.157.141	Unassigned IP.
+130.65.157.142	Non VMware device.
+130.65.157.143	Non VMware device.
+130.65.157.144	Unassigned IP.
+130.65.157.145	Non VMware device.
+130.65.157.146	cumulus1.engr.sjsu.edu
+130.65.157.147	cumulus2.engr.sjsu.edu
+130.65.157.148	cumulus6.engr.sjsu.edu
+130.65.157.149	Unassigned IP.
+130.65.157.150	Unassigned IP.
+130.65.157.151	Unassigned IP.
+130.65.157.152	Unassigned IP.
+130.65.157.153	Unassigned IP.
+130.65.157.154	Non VMware device.
+130.65.157.155	Non VMware device.
+130.65.157.156	Unassigned IP.
+130.65.157.157	Unassigned IP.
+130.65.157.158	Unassigned IP.
+130.65.157.159	Unassigned IP.
+130.65.157.160	Unassigned IP.
+130.65.157.161	Non VMware device.
+130.65.157.162	Non VMware device.
+130.65.157.163	Unassigned IP.
+130.65.157.164	Non VMware device.
+130.65.157.165	Non VMware device.
+130.65.157.166	Unassigned IP.
+130.65.157.167	Non VMware device.
+130.65.157.168	Non VMware device.
+130.65.157.169	Unassigned IP.
+130.65.157.170	Non VMware device.
+130.65.157.171	Non VMware device.
+130.65.157.172	Unassigned IP.
+130.65.157.173	Unassigned IP.
+130.65.157.174	Unassigned IP.
+130.65.157.175	Unassigned IP.
+130.65.157.176	Unassigned IP.
+130.65.157.177	Unassigned IP.
+130.65.157.178	Unassigned IP.
+130.65.157.179	Unassigned IP.
+130.65.157.180	Non VMware device.
+130.65.157.181	Unassigned IP.
+130.65.157.182	Non VMware device.
+130.65.157.183	Non VMware device.
+130.65.157.184	Unassigned IP.
+130.65.157.185	Unassigned IP.
+130.65.157.186	Unassigned IP.
+130.65.157.187	Unassigned IP.
+130.65.157.188	Unassigned IP.
+130.65.157.189	Non VMware device.
+130.65.157.190	Unassigned IP.
+130.65.157.191	localhost.localdomain
+130.65.157.192	Unassigned IP.
+130.65.157.193	Unassigned IP.
+130.65.157.194	Non VMware device.
+130.65.157.195	Unassigned IP.
+130.65.157.196	cumulus4.engr.sjsu.edu
+130.65.157.197	Non VMware device.
+130.65.157.198	Non VMware device.
+130.65.157.199	Unassigned IP.
+130.65.157.200	Unassigned IP.
+130.65.157.201	Non VMware device.
+130.65.157.202	Unassigned IP.
+130.65.157.203	Unassigned IP.
+130.65.157.204	Unassigned IP.
+130.65.157.205	Unassigned IP.
+130.65.157.206	Unassigned IP.
+130.65.157.207	Unassigned IP.
+130.65.157.208	Non VMware device.
+130.65.157.209	Unassigned IP.
+130.65.157.210	Unassigned IP.
+130.65.157.211	Non VMware device.
+130.65.157.212	Unassigned IP.
+130.65.157.213	Unassigned IP.
+130.65.157.214	Non VMware device.
+130.65.157.215	Unassigned IP.
+130.65.157.216	Unassigned IP.
+130.65.157.217	Unassigned IP.
+130.65.157.218	cumulus3.engr.sjsu.edu
+130.65.157.219	Unassigned IP.
+130.65.157.220	Unassigned IP.
+130.65.157.221	Unassigned IP.
+130.65.157.222	Unassigned IP.
+130.65.157.223	Unassigned IP.
+130.65.157.224	Non VMware device.
+130.65.157.225	Unassigned IP.
+130.65.157.226	Unassigned IP.
+130.65.157.227	Unassigned IP.
+130.65.157.228	Non VMware device.
+130.65.157.229	Unassigned IP.
+130.65.157.230	x130-65-157-230.engr.sjsu.edu
+130.65.157.231	Unassigned IP.
+130.65.157.232	Unassigned IP.
+130.65.157.233	Non VMware device.
+130.65.157.234	Unassigned IP.
+130.65.157.235	Unassigned IP.
+130.65.157.236	Unassigned IP.
+130.65.157.237	Unassigned IP.
+130.65.157.238	Unassigned IP.
+130.65.157.239	Unassigned IP.
+130.65.157.240	Unassigned IP.
+130.65.157.241	Unassigned IP.
+130.65.157.242	Unassigned IP.
+130.65.157.243	Unassigned IP.
+130.65.157.244	Unassigned IP.
+130.65.157.245	Unassigned IP.
+130.65.157.246	Unassigned IP.
+130.65.157.247	Unassigned IP.
+130.65.157.248	Non VMware device.
+130.65.157.249	Unassigned IP.
+130.65.157.250	Unassigned IP.
+130.65.157.251	Non VMware device.
+130.65.157.252	Non VMware device.
+130.65.157.253	Unassigned IP.
+130.65.157.254	Unassigned IP.
+130.65.157.255	Non VMware device.
+End of log file generated at WED APR 24 15:08:16 PDT 2013
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Log file generated at TUE APR 30 18:17:09 PDT 2013
+10.185.188.0	Unassigned IP.
+10.185.188.1	Unassigned IP.
+10.185.188.2	Unassigned IP.
+10.185.188.3	Unassigned IP.
+10.185.188.4	Unassigned IP.
+10.185.188.5	Unassigned IP.
+10.185.188.6	Unassigned IP.
+10.185.188.7	Unassigned IP.
+10.185.188.8	Unassigned IP.
+10.185.188.9	Unassigned IP.
+10.185.188.10	Unassigned IP.
+10.185.188.11	Unassigned IP.
+10.185.188.12	Unassigned IP.
+10.185.188.13	Unassigned IP.
+10.185.188.14	Unassigned IP.
+10.185.188.15	Unassigned IP.
+10.185.188.16	Unassigned IP.
+10.185.188.17	Unassigned IP.
+10.185.188.18	Unassigned IP.
+10.185.188.19	Unassigned IP.
+10.185.188.20	Unassigned IP.
+10.185.188.21	Unassigned IP.
+10.185.188.22	Unassigned IP.
+10.185.188.23	Unassigned IP.
+10.185.188.24	Unassigned IP.
+10.185.188.25	Unassigned IP.
+10.185.188.26	Unassigned IP.
+10.185.188.27	Unassigned IP.
+10.185.188.28	Unassigned IP.
+10.185.188.29	Unassigned IP.
+10.185.188.30	Unassigned IP.
+10.185.188.31	Unassigned IP.
+10.185.188.32	Unassigned IP.
+10.185.188.33	Unassigned IP.
+10.185.188.34	Unassigned IP.
+10.185.188.35	Unassigned IP.
+10.185.188.36	Unassigned IP.
+10.185.188.37	Unassigned IP.
+10.185.188.38	Unassigned IP.
+10.185.188.39	Unassigned IP.
+10.185.188.40	Unassigned IP.
+10.185.188.41	Unassigned IP.
+10.185.188.42	Unassigned IP.
+10.185.188.43	Unassigned IP.
+10.185.188.44	Unassigned IP.
+10.185.188.45	Unassigned IP.
+10.185.188.46	Unassigned IP.
+10.185.188.47	Unassigned IP.
+10.185.188.48	Unassigned IP.
+10.185.188.49	Unassigned IP.
+10.185.188.50	Non VMware device.
+10.185.188.51	Unassigned IP.
+10.185.188.52	Unassigned IP.
+10.185.188.53	Unassigned IP.
+10.185.188.54	Unassigned IP.
+10.185.188.55	Unassigned IP.
+10.185.188.56	Unassigned IP.
+10.185.188.57	Unassigned IP.
+10.185.188.58	Unassigned IP.
+10.185.188.59	Unassigned IP.
+10.185.188.60	Unassigned IP.
+10.185.188.61	Unassigned IP.
+10.185.188.62	Unassigned IP.
+10.185.188.63	Unassigned IP.
+10.185.188.64	Unassigned IP.
+10.185.188.65	Unassigned IP.
+10.185.188.66	Unassigned IP.
+10.185.188.67	Unassigned IP.
+10.185.188.68	Unassigned IP.
+10.185.188.69	Unassigned IP.
+10.185.188.70	Unassigned IP.
+10.185.188.71	Unassigned IP.
+10.185.188.72	Unassigned IP.
+10.185.188.73	Unassigned IP.
+10.185.188.74	Unassigned IP.
+10.185.188.75	Unassigned IP.
+10.185.188.76	Unassigned IP.
+10.185.188.77	Unassigned IP.
+10.185.188.78	Unassigned IP.
+10.185.188.79	Unassigned IP.
+10.185.188.80	Unassigned IP.
+10.185.188.81	Unassigned IP.
+10.185.188.82	Unassigned IP.
+10.185.188.83	Unassigned IP.
+10.185.188.84	Unassigned IP.
+10.185.188.85	Unassigned IP.
+10.185.188.86	Unassigned IP.
+10.185.188.87	Unassigned IP.
+10.185.188.88	Unassigned IP.
+10.185.188.89	Unassigned IP.
+10.185.188.90	Unassigned IP.
+10.185.188.91	Unassigned IP.
+10.185.188.92	Unassigned IP.
+10.185.188.93	Unassigned IP.
+10.185.188.94	Unassigned IP.
+10.185.188.95	Unassigned IP.
+10.185.188.96	Unassigned IP.
+10.185.188.97	Unassigned IP.
+10.185.188.98	Unassigned IP.
+10.185.188.99	Unassigned IP.
+10.185.188.100	Unassigned IP.
+10.185.188.101	Unassigned IP.
+10.185.188.102	Unassigned IP.
+10.185.188.103	Unassigned IP.
+10.185.188.104	Unassigned IP.
+10.185.188.105	Unassigned IP.
+10.185.188.106	Unassigned IP.
+10.185.188.107	Unassigned IP.
+10.185.188.108	Unassigned IP.
+10.185.188.109	Unassigned IP.
+10.185.188.110	Unassigned IP.
+10.185.188.111	Unassigned IP.
+10.185.188.112	Unassigned IP.
+10.185.188.113	Unassigned IP.
+10.185.188.114	Unassigned IP.
+10.185.188.115	Unassigned IP.
+10.185.188.116	Unassigned IP.
+10.185.188.117	Unassigned IP.
+10.185.188.118	Unassigned IP.
+10.185.188.119	Unassigned IP.
+10.185.188.120	Unassigned IP.
+10.185.188.121	Unassigned IP.
+10.185.188.122	Unassigned IP.
+10.185.188.123	Unassigned IP.
+10.185.188.124	Unassigned IP.
+10.185.188.125	Unassigned IP.
+10.185.188.126	Unassigned IP.
+10.185.188.127	Unassigned IP.
+10.185.188.128	Unassigned IP.
+10.185.188.129	Unassigned IP.
+10.185.188.130	Unassigned IP.
+10.185.188.131	Unassigned IP.
+10.185.188.132	Unassigned IP.
+10.185.188.133	Unassigned IP.
+10.185.188.134	Unassigned IP.
+10.185.188.135	Unassigned IP.
+10.185.188.136	Unassigned IP.
+10.185.188.137	Unassigned IP.
+10.185.188.138	Unassigned IP.
+10.185.188.139	Unassigned IP.
+10.185.188.140	Unassigned IP.
+10.185.188.141	Unassigned IP.
+10.185.188.142	Unassigned IP.
+10.185.188.143	Unassigned IP.
+10.185.188.144	Unassigned IP.
+10.185.188.145	Unassigned IP.
+10.185.188.146	Unassigned IP.
+10.185.188.147	Unassigned IP.
+10.185.188.148	Unassigned IP.
+10.185.188.149	Unassigned IP.
+10.185.188.150	Unassigned IP.
+10.185.188.151	Unassigned IP.
+10.185.188.152	Unassigned IP.
+10.185.188.153	Unassigned IP.
+10.185.188.154	Unassigned IP.
+10.185.188.155	Unassigned IP.
+10.185.188.156	Unassigned IP.
+10.185.188.157	Unassigned IP.
+10.185.188.158	Unassigned IP.
+10.185.188.159	Unassigned IP.
+10.185.188.160	Unassigned IP.
+10.185.188.161	Unassigned IP.
+10.185.188.162	Unassigned IP.
+10.185.188.163	Unassigned IP.
+10.185.188.164	Unassigned IP.
+10.185.188.165	Unassigned IP.
+10.185.188.166	Unassigned IP.
+10.185.188.167	Unassigned IP.
+10.185.188.168	Unassigned IP.
+10.185.188.169	Unassigned IP.
+10.185.188.170	Unassigned IP.
+10.185.188.171	Unassigned IP.
+10.185.188.172	Unassigned IP.
+10.185.188.173	Unassigned IP.
+10.185.188.174	Unassigned IP.
+10.185.188.175	Unassigned IP.
+10.185.188.176	Unassigned IP.
+10.185.188.177	Unassigned IP.
+10.185.188.178	Unassigned IP.
+10.185.188.179	Unassigned IP.
+10.185.188.180	Unassigned IP.
+10.185.188.181	Unassigned IP.
+10.185.188.182	Unassigned IP.
+10.185.188.183	Unassigned IP.
+10.185.188.184	Unassigned IP.
+10.185.188.185	Unassigned IP.
+10.185.188.186	Unassigned IP.
+10.185.188.187	Unassigned IP.
+10.185.188.188	Unassigned IP.
+10.185.188.189	Unassigned IP.
+10.185.188.190	Unassigned IP.
+10.185.188.191	Unassigned IP.
+10.185.188.192	Unassigned IP.
+10.185.188.193	Unassigned IP.
+10.185.188.194	Unassigned IP.
+10.185.188.195	Unassigned IP.
+10.185.188.196	Unassigned IP.
+10.185.188.197	Unassigned IP.
+10.185.188.198	Unassigned IP.
+10.185.188.199	Unassigned IP.
+10.185.188.200	Unassigned IP.
+10.185.188.201	Unassigned IP.
+10.185.188.202	Unassigned IP.
+10.185.188.203	Unassigned IP.
+10.185.188.204	Unassigned IP.
+10.185.188.205	Unassigned IP.
+10.185.188.206	Unassigned IP.
+10.185.188.207	Unassigned IP.
+10.185.188.208	Unassigned IP.
+10.185.188.209	Unassigned IP.
+10.185.188.210	Unassigned IP.
+10.185.188.211	Unassigned IP.
+10.185.188.212	Unassigned IP.
+10.185.188.213	Unassigned IP.
+10.185.188.214	Unassigned IP.
+10.185.188.215	Unassigned IP.
+10.185.188.216	Unassigned IP.
+10.185.188.217	Unassigned IP.
+10.185.188.218	Unassigned IP.
+10.185.188.219	Unassigned IP.
+10.185.188.220	Unassigned IP.
+10.185.188.221	Unassigned IP.
+10.185.188.222	Unassigned IP.
+10.185.188.223	Unassigned IP.
+10.185.188.224	Unassigned IP.
+10.185.188.225	Unassigned IP.
+10.185.188.226	Unassigned IP.
+10.185.188.227	Unassigned IP.
+10.185.188.228	Unassigned IP.
+10.185.188.229	Unassigned IP.
+10.185.188.230	Unassigned IP.
+10.185.188.231	Unassigned IP.
+10.185.188.232	Unassigned IP.
+10.185.188.233	Unassigned IP.
+10.185.188.234	Unassigned IP.
+10.185.188.235	Unassigned IP.
+10.185.188.236	Unassigned IP.
+10.185.188.237	Unassigned IP.
+10.185.188.238	Unassigned IP.
+10.185.188.239	Unassigned IP.
+10.185.188.240	Unassigned IP.
+10.185.188.241	Unassigned IP.
+10.185.188.242	Unassigned IP.
+10.185.188.243	Unassigned IP.
+10.185.188.244	Unassigned IP.
+10.185.188.245	Unassigned IP.
+10.185.188.246	Unassigned IP.
+10.185.188.247	Unassigned IP.
+10.185.188.248	Unassigned IP.
+10.185.188.249	Unassigned IP.
+10.185.188.250	Unassigned IP.
+10.185.188.251	Unassigned IP.
+10.185.188.252	Unassigned IP.
+10.185.188.253	Unassigned IP.
+10.185.188.254	Non VMware device.
+10.185.188.255	Unassigned IP.
+End of log file generated at TUE APR 30 18:17:09 PDT 2013
+------------------------------------------------------------------------
