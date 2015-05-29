@@ -1,4 +1,4 @@
-package reddit;
+package reddit.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -10,6 +10,11 @@ import java.util.List;
 
 import org.junit.After;
 import org.junit.Test;
+
+import reddit.client.RedditClient;
+import reddit.server.entities.RedditTopic;
+import reddit.server.entities.RedditTopicComment;
+import reddit.server.entities.RedditTopicList;
 
 public class RedditApplicationTests {
 

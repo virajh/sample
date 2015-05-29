@@ -1,4 +1,4 @@
-package reddit;
+package reddit.server.entities;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

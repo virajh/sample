@@ -1,9 +1,13 @@
-package reddit;
+package reddit.client;
 
 import java.util.HashMap;
 
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestTemplate;
+
+import reddit.server.entities.RedditTopic;
+import reddit.server.entities.RedditTopicComment;
+import reddit.server.entities.RedditTopicList;
 
 
 public class RedditClient {

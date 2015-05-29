@@ -1,4 +1,4 @@
-package reddit;
+package reddit.server.controller;
 
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;
@@ -9,6 +9,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
+
+import reddit.server.entities.RedditTopic;
+import reddit.server.entities.RedditTopicComment;
+import reddit.server.entities.RedditTopicList;
+import reddit.server.exceptions.TopicCreationFailedException;
+import reddit.server.exceptions.TopicNotFoundException;
 
 @RestController
 public class RedditTopicController {

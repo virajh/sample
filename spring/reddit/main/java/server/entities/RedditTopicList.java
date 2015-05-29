@@ -1,4 +1,4 @@
-package reddit;
+package reddit.server.entities;
 
 import java.util.ArrayList;
 
