@@ -1,0 +1,44 @@
+<project name="AWS_Reddit" basedir=".">
+
+	<property name="src" location="src"/>
+    <property name="stage" location="stage"/>
+
+    <property name="zip_src" location="${stage}/zip"/>
+
+    <property name="lib_src" location="lib"/>
+    <property name="lib_dest" location="${zip_src}/lib"/>
+
+
+    <path id="aws.libs">
+        <fileset dir="${lib_src}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+	<target name="init">
+        <mkdir dir="${lib_dest}"/>
+	</target>
+
+	<target name="compile" depends="clean, init">
+		<javac srcdir="${src}" destdir="${zip_src}">
+            <classpath refid="aws.libs"/>
+        </javac>
+	</target>
+
+    <target name="copy-lib-jars" depends="init">
+        <copy todir="${lib_dest}">
+            <fileset dir="${lib_src}" includes="**/*.jar" />
+        </copy>
+    </target>
+
+    <target name="lambda" depends="clean, compile, copy-lib-jars">
+        <zip destfile="${stage}/virajh_aws_reddit.zip">
+            <zipfileset dir="${zip_src}" includes="**/*"/>
+        </zip>
+    </target>
+
+    <target name="clean">
+        <delete dir="${stage}"/>
+    </target>
+
+</project>
